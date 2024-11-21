@@ -1,0 +1,21 @@
+.container {
+  height: 100%;
+  width: 100%;
+  margin: 200px auto;
+  display: block;
+}
+.container #button {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 20px;
+  margin: 20px auto;
+  width: 200px;
+  border-radius: 8px;
+  background-color: aliceblue;
+  font-size: 40px;
+  outline: none;
+}
+.container img {
+  display: block;
+  margin: 0 auto;
+}
